@@ -37,6 +37,7 @@ article {
     padding: 2%;
     float: left;
     height: 100%;
+    width: -webkit-fill-available;
     background-color: azure;
 }
 
