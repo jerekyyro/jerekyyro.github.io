@@ -35,6 +35,7 @@ header {
 
 article {
     float: left;
+    height: 100%;
     width: 70%;
     background-color: azure;
 }
