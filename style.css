@@ -72,6 +72,10 @@ a.nav-a {
     padding: 1%;
 }
 
+img {
+    size:inherit
+}
+
 
 a:hover {
     background-color: #5f5d5a;
