@@ -89,5 +89,6 @@ iframe {
 }
 
 .headertxt {
-    color:rgb(139, 106, 72)
+    color:rgb(139, 106, 72);
+    text-shadow: 1px 1px black;
 }
