@@ -73,7 +73,8 @@ a.nav-a {
 }
 
 img {
-    size:inherit
+    max-width: 100%;
+    height: auto;
 }
 
 
