@@ -70,7 +70,7 @@ a:hover {
 }
 
 iframe {
-    width:800px;
+    width: -webkit-fill-available;
     height: 1600px;
     border: none;
 }
