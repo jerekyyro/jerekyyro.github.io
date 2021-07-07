@@ -69,6 +69,7 @@ a:hover {
 }
 
 iframe {
-    width:600px;
+    width:800px;
+    height: 1600px;
     border: none;
 }
