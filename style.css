@@ -62,8 +62,12 @@ h3 {
 
 a {
   color: #cc7722;
-  
 }
+
+a.nav-a {
+    padding: 1%;
+}
+
 
 a:hover {
     background-color: #121211;
