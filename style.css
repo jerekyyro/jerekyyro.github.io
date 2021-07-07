@@ -74,11 +74,10 @@ a.nav-a {
 
 
 a:hover {
-    background-color: #4d4841;
+    background-color: #5f5d5a;
 }
 
 iframe {
     width: -webkit-fill-available;
-    height: 1600px;
     border: none;
 }
