@@ -2,6 +2,12 @@
     <html>
         <head>
             <meta charset="utf-8">
+            <script>
+                var links = document.getElementsByTagName('a');
+                for (var i = 0; i < links.length; ++i) {
+                    links[i].setAttribute('target', '_top');
+                }
+            </script>
 
             <title>jere kyyrö | researcher of culture, religion & society</title>
             <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
