@@ -77,6 +77,11 @@ img {
     height: auto;
 }
 
+img.bot_logo {
+    max-height: 20px;
+    max-width: 30px;
+}
+
 
 a:hover {
     background-color: #5f5d5a;
