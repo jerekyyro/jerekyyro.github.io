@@ -100,12 +100,18 @@ iframe {
 */
 
 iframe {
-    height: 400px;
-    width: 700px;
+    
+
+
+
+    
+    height: 73vh;
+    width: 100%;
     resize: both;
     overflow: auto;
     border:none;
-  }
+    
+    }
 
 .headertxt {
     color:rgb(182, 152, 120);
