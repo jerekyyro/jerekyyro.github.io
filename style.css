@@ -37,11 +37,13 @@ header {
 }
 
 article {
-    padding: 5%;
+    padding: 0%;
+    padding-top: 5%;
+    padding-bottom: 5%;
     float: left;
     height: 100%;
     width: -webkit-fill-available;
-    background-color: azure;
+    background-color: white;
 }
 
 article.linklist{
@@ -111,9 +113,14 @@ iframe {
     overflow: auto;
     border:none;
     
+    
     }
 
 .headertxt {
     color:rgb(182, 152, 120);
     text-shadow: 1px 1px black;
+}
+
+.btop {
+    padding: 5%;
 }
