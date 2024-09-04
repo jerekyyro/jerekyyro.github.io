@@ -139,7 +139,7 @@ iframe {
         font-size: medium;
     }
 
-    a.nav-a {
-        font-size: large;
+    .nav-a {
+        font-size: 20;
     }
   }
