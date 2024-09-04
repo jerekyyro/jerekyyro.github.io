@@ -67,15 +67,7 @@ h3 {
 }
 
 
-@media only screen and (max-width: 600px) {
 
-    h1 {
-        font-size: large;
-    }
-    h3 {
-        font-size: medium;
-    }
-  }
 
 
 a {
@@ -136,3 +128,18 @@ iframe {
 .btop {
     padding: 5%;
 }
+
+
+@media only screen and (max-width: 600px) {
+
+    h1 {
+        font-size: large;
+    }
+    h3 {
+        font-size: medium;
+    }
+
+    a.nav-a {
+        font-size: large;
+    }
+  }
