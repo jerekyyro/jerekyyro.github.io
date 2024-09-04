@@ -66,6 +66,18 @@ h3 {
     font: italic;    
 }
 
+
+@media only screen and (max-width: 600px) {
+
+    h1 {
+        font-size: large;
+    }
+    h3 {
+        font-size: medium;
+    }
+  }
+
+
 a {
   color: #492604;
 }
